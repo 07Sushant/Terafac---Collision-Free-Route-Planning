@@ -4,6 +4,9 @@
 
 This project implements an autonomous self-driving robot simulator using a Python Flask backend with WebSocket communication and a browser-based 3D Three.js frontend. The robot autonomously navigates a dynamic environment with obstacles toward a configurable goal using computer vision for obstacle avoidance and goal detection.
 
+![Descriptive Alt Text](https://raw.githubusercontent.com/07Sushant/dump/main/tt.png)
+
+
 ***
 
 ## Project Mission
@@ -132,3 +135,4 @@ This project implements an autonomous self-driving robot simulator using a Pytho
 - The project demonstrates an integration of perception, planning, and control in a web-based robot simulation.
 
 ***
+
